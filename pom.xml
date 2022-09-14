@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>java-web-app</artifactId>
 	<packaging>war</packaging>
-	<version>1.0</version>
+	<version>1.1.0</version>
 	
 	<name>Maven Web Application</name>
 	<url>http://mithuntechnologies.com</url>
@@ -102,12 +102,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.206.124.217:9081/vstechsolutions/repository/vali0023-maven-hosted/</url>
+	      <url>http://15.206.124.217:9081/vstechsolutions/repository/java-web-app-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.206.124.217:9081/vstechsolutions/repository/vali0023-maven-snapshot/</url>
+	      <url>http://15.206.124.217:9081/vstechsolutions/repository/maven-java-webapp-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement> -->
 	
